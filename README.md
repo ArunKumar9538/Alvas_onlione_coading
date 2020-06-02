@@ -30,3 +30,17 @@ Write a Java Program to Demonstrate a Basic Calculator using Applet
 
 # prog 12
 Write a C program to construct a singly linked list by removing duplicate elements in the sorted linked list
+prog 13
+Write C Program to create Singly Liked List with n elements and reverse the elements
+
+# prog 14
+Write a C Program to implement various operations of Singly Linked List Stack
+
+# prog 15
+Java Program to separate the Individual Characters from a String
+
+# prog 16
+Java Program to find the largest and smallest word in a string (input with in the program)
+
+# prog 17
+Write a C Program to Generate First N Triangular Numbers (Where N is read from the Keyboard)
